@@ -11,5 +11,6 @@ end
 def position_taken(board, move)
 if board[move] == "X" || board[move]== "O"
   false
+elsif 
 
 end
