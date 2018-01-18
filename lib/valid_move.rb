@@ -1,6 +1,6 @@
 # code your #valid_move? method here
 def valid_move(board, move)
-  if move > 8
+  if position_taken(board, move)
     false
   else
     true
