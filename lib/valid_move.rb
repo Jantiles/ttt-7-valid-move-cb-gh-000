@@ -14,3 +14,4 @@ if board[move] == "X" || board[move]== "O"
 elsif board[move] == " " || board[move]== ""
   false
 end
+end
